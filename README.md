@@ -27,21 +27,29 @@
 
 <!-- BIG gradient title -->
 <p align="center">
-  <svg width="100%" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="100%" height="110" viewBox="0 0 1200 110"
+       role="img" aria-label="Data Engineer">
     <defs>
-      <linearGradient id="de-grad" x1="0" y1="0" x2="1" y2="0">
+      <linearGradient id="gde-2025" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0%"  stop-color="#63B3FF"/>
         <stop offset="46%" stop-color="#2EC5FF"/>
         <stop offset="100%" stop-color="#2AD3B6"/>
       </linearGradient>
+      <mask id="mde-2025" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="110">
+        <rect x="0" y="0" width="1200" height="110" fill="#000"/>
+        <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+              font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+              font-size="72" font-weight="800" fill="#fff">
+          Data Engineer
+        </text>
+      </mask>
     </defs>
-    <text x="50%" y="70%" text-anchor="middle"
-          font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-size="72" font-weight="800" fill="url(#de-grad)">
-      Data Engineer
-    </text>
+    <rect x="0" y="0" width="1200" height="110"
+          fill="url(#gde-2025)" mask="url(#mde-2025)"/>
   </svg>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-sgm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sebastian--sgm-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -50,7 +58,7 @@
 <!-- ========= ABOUT ========== -->
 
 <h3>
-  <img src="./gif.gif" width="20" height="20" style="vertical-align:-4px; margin-right:8px;" alt="about animation"/>
+  <img src="assets/gifs/about.gif" width="20" height="20" style="vertical-align:-4px; margin-right:8px;" alt="about animation"/>
   About me
 </h3>
 I build **reliable data pipelines** that keep analytics and ML moving. My focus is simple: make data **fresh, trusted, and observable**.
@@ -82,7 +90,7 @@ I build **reliable data pipelines** that keep analytics and ML moving. My focus 
 <!-- ========= TECH STACK (stable icons) ========== -->
 
 <h3>
-  <img src="./code.gif" width="22" height="22" style="vertical-align:-4px; margin-right:8px;" alt="code animation"/>
+  <img src="assets/gifs/code.gif" width="22" height="22" style="vertical-align:-4px; margin-right:8px;" alt="code animation"/>
   Technologies that I use
 </h3>
 
@@ -143,7 +151,7 @@ I build **reliable data pipelines** that keep analytics and ML moving. My focus 
 </p>
 
 <h3>
-  <img src="./comm.gif" width="22" height="22" style="vertical-align:-5px; margin-right:8px;" alt="Reach me animation"/>
+  <img src="assets/gifs/mail.gif" width="22" height="22" style="vertical-align:-5px; margin-right:8px;" alt="Reach me animation"/>
   Reach me
 </h3>
 
