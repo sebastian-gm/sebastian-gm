@@ -85,7 +85,6 @@ I build **reliable data pipelines** that keep analytics and ML moving. My focus 
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
   </tr>
   <tr>
-    <!-- Power BI and Tableau via Simple Icons (reliable) -->
     <td align="center" width="96">
       <img src="./assets/icons/power-bi.svg" width="60" height="60" alt="Power BI"/>
       <br>PowerBI
@@ -100,7 +99,7 @@ I build **reliable data pipelines** that keep analytics and ML moving. My focus 
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/dvc/945DD6" width="60" height="60" alt="DVC"/><br>DVC</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash"/><br>Bash</td>
     <td align="center" width="96">
-      <img src="./assets/icons/dagshub.svg" width="60" height="50" alt="DagsHub"/>
+      <img src="./assets/icons/dagshub.svg" width="60" height="60" alt="DagsHub"/>
       <br>DagsHub
     </td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode"/><br>VSCode</td>
