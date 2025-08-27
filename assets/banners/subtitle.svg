@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="gde-2025-file" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#63B3FF"></stop>
+      <stop offset="46%" stop-color="#2EC5FF"></stop>
+      <stop offset="100%" stop-color="#2AD3B6"></stop>
+    </linearGradient>
+    <mask id="mde-2025-file" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="110">
+      <rect width="1200" height="110" fill="#000"></rect>
+      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#fff">Data Engineer</text>
+    </mask>
+  </defs>
+  <rect width="1200" height="110" fill="url(#gde-2025-file)" mask="url(#mde-2025-file)"></rect>
+</svg>
