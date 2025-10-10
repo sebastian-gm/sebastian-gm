@@ -8,7 +8,7 @@
   <a href="https://github.com/sebastian-gm">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=720&lines=Hi+%F0%9F%91%8B+I+am+Sebastian"
-      alt="Hi 👋 I am Sebastian Gonzalez — Data Engineer"
+      alt="Hi 👋 I am Sebastian Gonzalez — Data & Analytics Engineer"
     />
   </a>
 </p>
@@ -35,14 +35,14 @@
   About me
 </h3>
 
-I build **reliable data pipelines** that keep analytics and ML moving. My focus is simple: make data **fresh, trusted, and observable**.
+I build **reliable data pipelines and analytics models** that keep BI, ML, and decision-making moving. My focus is simple: make data **fresh, trusted, and observable**.
 
 - **Strengths:** Python/SQL · Airflow · Spark/Delta · dbt · Databricks · AWS/Azure · Snowflake · Docker · MLflow  
 - **How I work:** contracts before code, DQ tests before dashboards, small PRs, clear runbooks.
 
 
 
-> Open to **Data Engineer / Data Platform / Analytics Engineer** roles.
+> Open to **Analytics Engineer / Data Engineer / Data Platform** roles.
 
 <!-- divider -->
 <p align="center">
