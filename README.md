@@ -8,14 +8,14 @@
   <a href="https://github.com/sebastian-gm">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=720&lines=Hi+%F0%9F%91%8B+I+am+Sebastian"
-      alt="Hi 👋 I am Sebastian Gonzalez — Data & Analytics Engineer"
+      alt="Hi 👋 I am Sebastian Gonzalez — Data & BI Analyst"
     />
   </a>
 </p>
 
 <!-- BIG gradient title -->
 <p align="center">
-  <img src="./assets/banners/subtitle.svg" alt="Data Engineer" width="100%" height="110">
+  <img src="./assets/banners/subtitle.svg" alt="Data & BI Analyst" width="100%" height="110">
 </p>
 
 
@@ -35,14 +35,14 @@
   About me
 </h3>
 
-I build **reliable data pipelines and analytics models** that keep BI, ML, and decision-making moving. My focus is simple: make data **fresh, trusted, and observable**.
+I build **executive dashboards and automated reporting** that connect **Snowflake, AWS S3, and Azure SQL / ADF** to **Tableau** and **Power BI**. My background in **fintech & credit risk** helps me define KPIs, model data, and deliver reliable analytics for faster lending and portfolio decisions.
 
-- **Strengths:** Python/SQL · Airflow · Spark/Delta · dbt · Databricks · AWS/Azure · Snowflake · Docker · MLflow  
-- **How I work:** contracts before code, DQ tests before dashboards, small PRs, clear runbooks.
+- **Core stack:** Python/SQL · Power BI · Tableau · Snowflake · dbt · AWS/Azure · PostgreSQL · MS SQL  
+- **How I work:** clarify KPIs → model for BI → automate pipelines → validate data quality → ship dashboards with clear docs  
 
 
 
-> Open to **Analytics Engineer / Data Engineer / Data Platform** roles.
+> Open to **Data Analyst · BI Analyst · Business Analyst · Analytics Engineer** roles.
 
 <!-- divider -->
 <p align="center">
@@ -60,31 +60,6 @@ I build **reliable data pipelines and analytics models** that keep BI, ML, and d
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60" height="60" alt="Airflow"/><br>Airflow</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="60" height="60" alt="Apache Spark"/><br>Spark</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="60" height="60" alt="dbt"/><br>dbt</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/><br>Snowflake</td>
-    <td align="center" width="96"><img src="https://vectorlogo.zone/logos/databricks/databricks-icon.svg" width="60" height="60" alt="Databricks"/><br>Databricks</td>
-    <td align="center" width="96">
-      <img src="assets/icons/delta-lake.svg" width="60" height="60" alt="Delta Lake"/>
-      <br>Delta Lake
-    </td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/mlflow/0194FE" width="60" height="60" alt="MLflow"/><br>MLflow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions"/><br>GH Actions</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="./assets/icons/power-bi.svg" width="60" height="60" alt="Power BI"/>
       <br>PowerBI
@@ -93,11 +68,36 @@ I build **reliable data pipelines and analytics models** that keep BI, ML, and d
       <img src="./assets/icons/tableau.svg" width="60" height="60" alt="Tableau"/>
       <br>Tableau
     </td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="Kafka"/><br>Kafka</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST"/><br>REST APIs</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/><br>Snowflake</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="60" height="60" alt="dbt"/><br>dbt</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="60" height="60" alt="Pandas"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dvc/945DD6" width="60" height="60" alt="DVC"/><br>DVC</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions"/><br>GH Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST"/><br>REST APIs</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash"/><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://vectorlogo.zone/logos/databricks/databricks-icon.svg" width="60" height="60" alt="Databricks"/><br>Databricks</td>
+    <td align="center" width="96">
+      <img src="assets/icons/delta-lake.svg" width="60" height="60" alt="Delta Lake"/>
+      <br>Delta Lake
+    </td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="60" height="60" alt="Apache Spark"/><br>Spark</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60" height="60" alt="Airflow"/><br>Airflow</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="Kafka"/><br>Kafka</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/mlflow/0194FE" width="60" height="60" alt="MLflow"/><br>MLflow</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dvc/945DD6" width="60" height="60" alt="DVC"/><br>DVC</td>
     <td align="center" width="96">
       <img src="./assets/icons/dagshub.svg" width="60" height="60" alt="DagsHub"/>
       <br>DagsHub

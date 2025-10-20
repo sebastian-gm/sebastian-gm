@@ -7,7 +7,7 @@
     </linearGradient>
     <mask id="mde-2025-file" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="110">
       <rect width="1200" height="110" fill="#000"></rect>
-      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#fff">Data Engineer</text>
+      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#fff">Data &amp; BI Analyst</text>
     </mask>
   </defs>
   <rect width="1200" height="110" fill="url(#gde-2025-file)" mask="url(#mde-2025-file)"></rect>
