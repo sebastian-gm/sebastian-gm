@@ -69,7 +69,7 @@ I build **executive dashboards and automated reporting** that connect **Snowflak
       <br>Tableau
     </td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/><br>Snowflake</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dbt/FF694B" width="60" height="60" alt="dbt"/><br>dbt</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dbt" width="60" height="60" alt="dbt"/><br>dbt</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="60" height="60" alt="Pandas"/><br>Pandas</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
