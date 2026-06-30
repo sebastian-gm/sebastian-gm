@@ -8,14 +8,14 @@
   <a href="https://github.com/sebastian-gm">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=720&lines=Hi+%F0%9F%91%8B+I+am+Sebastian"
-      alt="Hi 👋 I am Sebastian Gonzalez — Data & BI Analyst"
+      alt="Hi, I am Sebastian Gonzalez — BI Engineering, Data Engineering, Applied AI"
     />
   </a>
 </p>
 
 <!-- BIG gradient title -->
 <p align="center">
-  <img src="./assets/banners/subtitle.svg" alt="Data & BI Analyst" width="100%" height="110">
+  <img src="./assets/banners/subtitle.svg" alt="BI Engineering · Data Engineering · Applied AI" width="100%" height="110">
 </p>
 
 
@@ -35,21 +35,21 @@
   About me
 </h3>
 
-I build **executive dashboards and automated reporting** that connect **Snowflake, AWS S3, and Azure SQL / ADF** to **Tableau** and **Power BI**. My background in **fintech & credit risk** helps me define KPIs, model data, and deliver reliable analytics for faster lending and portfolio decisions.
+I design and ship BI, data engineering, and applied AI systems with **Power BI**, **SQL**, **Azure**, **Python**, and **Power Platform**: semantic models, reporting pipelines, governed data layers, workflow automations, and AI-assisted document workflows.
 
-- **Core stack:** Python/SQL · Power BI · Tableau · Snowflake · dbt · AWS/Azure · PostgreSQL · MS SQL  
-- **How I work:** clarify KPIs → model for BI → automate pipelines → validate data quality → ship dashboards with clear docs  
+- **Core stack:** Power BI · SQL · Azure Data Factory · ADLS Gen2 · Azure SQL · Python · Power Automate · Azure AI Foundry
+- **What I build:** executive dashboards · semantic models · Azure data pipelines · reporting automation · AI-assisted document workflows
+- **Applied AI tools:** Azure OpenAI · Azure AI Search · Document Intelligence · Foundry agents · RAG evaluation
+- **How I work:** model the data → automate the workflow → add controls → validate quality → ship systems business teams can trust
 
 
 
-> Open to **Data Analyst · BI Analyst · Business Analyst · Analytics Engineer** roles.
+> Focused on **BI Developer · BI Engineer · Analytics Engineering · Data Engineering · Applied AI Automation** work.
 
 <!-- divider -->
 <p align="center">
   <img src="./assets/dividers/gradient-line2.svg" width="100%" height="6" alt="" />
 </p>
-
-
 
 <!-- ========= TECH STACK ========== -->
 
@@ -62,47 +62,51 @@ I build **executive dashboards and automated reporting** that connect **Snowflak
   <tr>
     <td align="center" width="96">
       <img src="./assets/icons/power-bi.svg" width="60" height="60" alt="Power BI"/>
-      <br>PowerBI
+      <br>Power BI
     </td>
-    <td align="center" width="96">
-      <img src="./assets/icons/tableau.svg" width="60" height="60" alt="Tableau"/>
-      <br>Tableau
-    </td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/><br>Snowflake</td>
-    <td align="center" width="96"><img src="./assets/icons/dbt.svg" width="60" height="60" alt="dbt"/><br>dbt</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="60" height="60" alt="Pandas"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS"/><br>AWS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure"/><br>Azure</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions"/><br>GH Actions</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST"/><br>REST APIs</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="60" height="60" alt="Bash"/><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
+    <td align="center" width="96"><img src="./assets/icons/sql-server.svg" width="60" height="60" alt="SQL Server"/><br>SQL Server</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python"/><br>Python</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-data-factory.svg" width="60" height="60" alt="Azure Data Factory"/><br>ADF</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-data-lake-gen2.png" width="60" alt="Azure Data Lake Storage Gen2"/><br>ADLS Gen2</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-sql.svg" width="60" height="60" alt="Azure SQL"/><br>Azure SQL</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="60" height="60" alt="Databricks"/><br>Databricks</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://vectorlogo.zone/logos/databricks/databricks-icon.svg" width="60" height="60" alt="Databricks"/><br>Databricks</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-functions.svg" width="60" height="60" alt="Azure Functions"/><br>Functions</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-key-vault.svg" width="60" height="60" alt="Azure Key Vault"/><br>Key Vault</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-openai.svg" width="60" height="60" alt="Azure OpenAI"/><br>Azure OpenAI</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-ai-search.svg" width="60" height="60" alt="Azure AI Search"/><br>AI Search</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-document-intelligence.svg" width="60" height="60" alt="Document Intelligence"/><br>Doc Intel</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-ai-language.svg" width="60" height="60" alt="Azure AI Language"/><br>AI Language</td>
+    <td align="center" width="96"><img src="./assets/icons/azure-ai-foundry.svg" width="60" height="60" alt="Azure AI Foundry"/><br>AI Foundry</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="60" height="60" alt="LangChain"/><br>LangChain</td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="assets/icons/delta-lake.svg" width="60" height="60" alt="Delta Lake"/>
       <br>Delta Lake
     </td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="60" height="60" alt="Apache Spark"/><br>Spark</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60" height="60" alt="Airflow"/><br>Airflow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="Kafka"/><br>Kafka</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/mlflow/0194FE" width="60" height="60" alt="MLflow"/><br>MLflow</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/dvc/945DD6" width="60" height="60" alt="DVC"/><br>DVC</td>
+    <td align="center" width="96"><img src="./assets/icons/dbt.svg" width="60" height="60" alt="dbt"/><br>dbt</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/><br>Snowflake</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/150458" width="60" height="60" alt="Pandas"/><br>Pandas</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL"/><br>MySQL</td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="./assets/icons/dagshub.svg" width="60" height="60" alt="DagsHub"/>
-      <br>DagsHub
+      <img src="./assets/icons/tableau.svg" width="60" height="60" alt="Tableau"/>
+      <br>Tableau
     </td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode"/><br>VSCode</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions"/><br>GH Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="60" height="60" alt="Terraform"/><br>Terraform</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
   </tr>
 </table>
 
